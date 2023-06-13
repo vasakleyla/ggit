@@ -1,4 +1,4 @@
-(** Batch of polynomial commitments? *)
+(** Batch of Polynomial Commitment Scheme *)
 
 type ('a, 'n, 'm) t
 
